@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.example.a0;
 
 import com.example.demo.game.GameRunner;
 import com.example.demo.game.MarioGame;
